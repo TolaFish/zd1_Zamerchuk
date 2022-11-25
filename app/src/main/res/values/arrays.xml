@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="catNames" translatable="true">catNames
+        <item name="Барсик" type="string"/>
+        <item name="Мурзик" type="string"/>
+        <item name="Васька" type="string"/>
+        <item name="Рыжик" type="string"/>
+    </string-array>
+</resources>
